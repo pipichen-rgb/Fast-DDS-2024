@@ -446,3 +446,4 @@ compile_commands.json
 # Uncrustify
 uncrustify.cfg
 *.pdf
+Fast-DDS-2024.code-workspace
